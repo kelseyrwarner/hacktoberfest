@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kelsey Warner](https://github.com/kelseyrwarner)
+- Place: Washington, DC. USA
+- Bio: Student at Georgetown University
+- GitHub: [kelseyrwarner](https://github.com/kelseyrwarner)
